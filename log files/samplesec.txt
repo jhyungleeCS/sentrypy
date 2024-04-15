@@ -1,0 +1,6 @@
+2024-04-14 08:30:00 [INFO] Firewall: Allowed incoming connection from 192.168.1.100 to port 22 (SSH)
+2024-04-14 08:32:15 [WARNING] IDS: Detected suspicious activity from IP address 10.0.0.5
+2024-04-14 08:35:45 [ERROR] Server: Failed login attempt to user 'admin' from IP address 203.0.113.25
+2024-04-14 08:40:20 [INFO] Firewall: Blocked incoming connection from 52.25.50.100 to port 3389 (RDP)
+2024-04-14 08:45:10 [INFO] Firewall: Allowed outgoing connection to 8.8.8.8 on port 53 (DNS)
+2024-04-14 08:50:30 [ERROR] Server: Disk space critically low on /var partition
